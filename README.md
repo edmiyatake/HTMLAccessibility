@@ -4,7 +4,7 @@ This document outlines the WCAG 2.2 Level A and AA accessibility issues addresse
 
 ---
 
-## Summary of Accessibility Fixes (with Original Visual Layout Preserved)
+## Summary of Accessibility Fixes
 
 ### 1. Language Declaration
 
@@ -46,3 +46,6 @@ This document outlines the WCAG 2.2 Level A and AA accessibility issues addresse
 **Note**: Layout styling and visual fidelity were preserved exactly as in the original version. Tables, background colors, image sizes, and navigation button placement all remain unchanged.
 
 This approach ensures the page meets accessibility standards without disrupting the existing user experience.
+
+removed : #content .story span {
+}
